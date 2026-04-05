@@ -11,6 +11,8 @@ __pycache__/
 *.md
 !README.md
 !exam_format_guide.md
+!TUTORIAL.md
+!TUTORIAL.md
 
 # Ignoring backup files
 *.bak
